@@ -55,6 +55,12 @@ header {
     background-color: blue;
     flex-direction: row;
 }
+.contenedor-letra{
+
+    background-color: black;
+    height: 100px;
+    width: 50%;
+}
 
 .producto{
 
